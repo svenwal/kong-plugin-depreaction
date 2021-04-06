@@ -1,7 +1,7 @@
 local helpers = require "spec.helpers"
 
 
-local PLUGIN_NAME = "myplugin"
+local PLUGIN_NAME = "deprecation"
 
 
 for _, strategy in helpers.each_strategy() do
